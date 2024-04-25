@@ -50,6 +50,11 @@ Transform your Discord experience into a visual delight with the Discord Theme M
 6. To switch to a different theme, simply select another option from the dropdown menu.
 7. If you want to revert to the default Discord theme, choose the "Discord Default" option from the dropdown menu.
 
+
+## SAMPLE THEMES SCREENSHOTS 
+![output_2MivNs](https://github.com/MrGovindDubey/DiscordThemeManager/assets/118271775/5013af7f-3c44-4ff7-9e4a-8b26606d4104)
+
+
 ## Contributing
 
 Contributions to the Discord Theme Manager project are welcome! If you have a new theme to add or want to improve the existing functionality, please follow these steps:
