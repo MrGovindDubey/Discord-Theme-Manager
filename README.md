@@ -1,7 +1,8 @@
-# Discord Theme Manager
 
+
+<h1 align="center">Discord Theme Manager</h1>
 <p align="center">
-  <img src="https://i.imgur.com/uyY7Dvb.png" alt="Discord Theme Manager" width="200">
+  <img src="https://i.imgur.com/uyY7Dvb.png" alt="Alt Text" width="300"\>
 </p>
 
 Transform your Discord experience into a visual delight with the Discord Theme Manager userscript. Seamlessly integrate stunning themes, crafted by talented designers, to infuse your chat interface with personality and style. Elevate your conversations with themes that resonate with your unique taste and preferences, enhancing every interaction on Discord.
