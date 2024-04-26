@@ -24,13 +24,20 @@ Transform your Discord experience into a visual delight with the Discord Theme M
 - **Persistent Theme**: The selected theme is saved in your browser's local storage, ensuring that your preferred theme is applied even after reloading or closing the Discord app.
 - **Default Theme Option**: Revert to the default Discord theme with a dedicated option in the dropdown menu.
 
-## Installation
 
-### Userscript
+
+### Installation:
 
 1. Install a userscript manager extension for your browser, such as [Tampermonkey](https://www.tampermonkey.net/) (for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox) or [Violentmonkey](https://violentmonkey.github.io/get-it/) (for Opera).
-2. Once the extension is installed, click on the following link to install the userscript: [Discord Theme Manager](https://github.com/your-username/discord-theme-manager/raw/main/discord-theme-manager.user.js)
+
+2. **Direct Installation:** [Click here to install the userscript directly](https://github.com/MrGovindDubey/DiscordThemeManager/raw/Master/Discord%20Theme%20Manger.user.js)
+
+   **Manual Installation:** Once the extension is installed, download the userscript from the following link:
+   [Discord Theme Manager](https://github.com/your-username/discord-theme-manager/raw/main/discord-theme-manager.user.js)
+   Then, import the userscript into your userscript manager.
+
 3. The userscript manager will prompt you to confirm the installation. Review the source code if desired and click "Install" to proceed.
+
 
 ### Browser Extension
 
