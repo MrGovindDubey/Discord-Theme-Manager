@@ -6,7 +6,7 @@
 </p>
 	
 [![License: BSD 3-Clause](https://img.shields.io/badge/license-BSD%203--Clause-blue.svg)](https://github.com/MrGovindDubey/Discord-Theme-Manager/blob/Master/README.md)
-[![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+
 
 Transform your Discord experience into a visual delight with the Discord Theme Manager userscript. Seamlessly integrate stunning themes, crafted by talented designers, to infuse your chat interface with personality and style. Elevate your conversations with themes that resonate with your unique taste and preferences, enhancing every interaction on Discord.
 
