@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://i.imgur.com/uyY7Dvb.png" alt="Alt Text" width="300"\>
 </p>
+	
+[![License: BSD 3-Clause](https://img.shields.io/badge/license-BSD%203--Clause-blue.svg)](https://github.com/MrGovindDubey/Discord-Theme-Manager/blob/Master/README.md)
+[![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
 Transform your Discord experience into a visual delight with the Discord Theme Manager userscript. Seamlessly integrate stunning themes, crafted by talented designers, to infuse your chat interface with personality and style. Elevate your conversations with themes that resonate with your unique taste and preferences, enhancing every interaction on Discord.
 
@@ -73,7 +76,7 @@ Contributions to the Discord Theme Manager project are welcome! If you have a ne
 4. Push the branch to your forked repository: `git push origin my-new-feature`
 5. Submit a pull request detailing your changes.
 
-**Note:** The current version of the userscript and extension is under development, and the developer plans to add more features. The complete source code will be uploaded soon. If you wish to contribute or have any inquiries, please contact the developer at [inbox](govinddubey661@gmail.com).
+**Note:** The current version of the userscript and extension is under development, and the developer plans to add more features. The complete source code will be uploaded soon. If you wish to contribute or have any inquiries, please contact the developer at [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:govinddubey661@gmail.com).
 
 ## License
 
