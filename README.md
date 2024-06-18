@@ -66,6 +66,12 @@ Transform your Discord experience into a visual delight with the Discord Theme M
 ![output_2MivNs](https://github.com/MrGovindDubey/DiscordThemeManager/assets/118271775/5013af7f-3c44-4ff7-9e4a-8b26606d4104)
 
 
+
+
+https://github.com/MrGovindDubey/Discord-Theme-Manager/assets/118271775/56385929-fe44-4ef7-b9c0-029bbaa1f8a2
+
+
+
 ## Contributing
 
 Contributions to the Discord Theme Manager project are welcome! If you have a new theme to add or want to improve the existing functionality, please follow these steps:
